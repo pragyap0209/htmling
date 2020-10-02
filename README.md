@@ -12,7 +12,7 @@ For a full demonstration, please see [htmling-demo-app](https://github.com/codem
 via [npm](https://npmjs.org/package/htmling)
 
 ```
-npm install htmling
+npm (Node Package Manager) install htmling
 ```
 
 ## Example
@@ -49,7 +49,9 @@ plus this:
     },
     {
       "name": "George"
-    }
+    },
+    {
+    "name" : "Bob"
   ]
 }
 ```
